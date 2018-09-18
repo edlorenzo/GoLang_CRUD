@@ -1,2 +1,2 @@
 # GoLang_CRUD
-Ed sample CRUD go lang page.
+Ed sample CRUD golang Web App.
